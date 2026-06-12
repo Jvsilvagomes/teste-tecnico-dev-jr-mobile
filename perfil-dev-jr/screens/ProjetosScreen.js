@@ -37,9 +37,8 @@ export default function ProjetosScreen() {
 
       <Text style={styles.sectionTitle}>📞 Contato & Redes</Text>
       <View style={styles.infoContainer}>
-        <Text style={styles.infoText}>📧 rafael.mendes5227@gmail.com</Text>
-        <Text style={styles.infoText}>🔗 https://github.com/Rafael-1108</Text>
-        <Text style={styles.infoText}>💼 https://www.linkedin.com/in/rafael-santos-5a2aa4349/</Text>
+        <Text style={styles.infoText}>📧 jvsilva0611@gmail.com</Text>
+        <Text style={styles.infoText}>🔗 https://github.com/Jvsilvagomes</Text>
       </View>
       
       <Text style={styles.messageTitle}>Envie uma mensagem</Text>
